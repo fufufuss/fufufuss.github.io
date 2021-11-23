@@ -1,37 +1,26 @@
-## 贺俊晖
+## 贺俊晖（2003060013）
 
-You can use the [editor on GitHub](https://github.com/fufufuss/fufufuss.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+QQ：2906545246  VX:HJH2906545046
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介
+姓名：贺俊晖
+性别：男
+生日：2003/06/01
+籍贯：湖南株洲
+专业：金融数学
+政治面貌：非党团员
+电子邮件：2906545246@qq.com
 
-### Markdown
+### 兴趣爱好
+篮球，乒乓球，打游戏，听音乐，看动漫
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 教育背景
+2008.09-2020.07湖南省株洲市渌口区
+2020.09-至今 湖南工商大学 金融数学
 
-```markdown
-Syntax highlighted code block
+### 主修课程
+高等数学  金融学  西方经济学
+概率论与数理统计 证券投资学
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fufufuss/fufufuss.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 自我评价
+热情随和，活泼开朗，具有进取精神和团队精神，积极灵活爱创新！愉快的实习经历锻炼了我的细心，要更加提升社会经验。
